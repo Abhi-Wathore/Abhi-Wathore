@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhi-wathore.github.io/Portfolio/](https://abhi-wathore.github.io/Portfolio/)
 
-- 🏆 Open to opportunities in [Frontend Development, AI Web Apps, and IT Support roles](Frontend Development, AI Web Apps, and IT Support roles)
+- 🏆 Open to opportunities in (Frontend Development, AI Web Apps, and IT Support roles)
 
 - 💬 Ask me about **React, Vue, UI Animations, AI Chatbot Development**
 
